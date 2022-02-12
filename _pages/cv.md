@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[CV](Shengyu-Feng.github.io/files/Shengyu_Feng_CV.pdf)
+[CV](../files/Shengyu_Feng_CV.pdf)
