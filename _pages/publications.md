@@ -2,15 +2,30 @@
 layout: archive
 title: "Publications"
 permalink: /publications/
-author_profile: true
+
 ---
 
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-{% include base_path %}
+* **Exploiting Long-Term Dependencies for Generating Dynamic Scene Graphs** \[[pdf](https://arxiv.org/abs/2112.09828)\]
+  * <ins>Shengyu Feng</ins>, Subarna Tripathi, Hesham Mostafa, Marcel Nassar and Somdeb Majumdar
+  * Preprint
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+* **Adversarial Graph Contrastive Learning with Information Regularization**
+  * <ins>Shengyu Feng</ins>, Baoyu Jing, Yada Zhu and Hanghang Tong
+  * ACM Web Conference (WWW), 2022
+  
+* **Coreference by appearance: Visually Grounded Event Coreference Resolution** \[[pdf](https://aclanthology.org/2021.crac-1.14.pdf)\]
+  * Liming Wang, <ins>Shengyu Feng</ins>, Xudong Lin, Manling Li, Shih-Fu Chang and Heng Ji
+  * EMNLP 2021 Workshop on Computational Models of Reference, Anaphora and Coreference (CRAC), 2021
+
+* **Batch Reinforcement Learning through Continuation Method** \[[pdf](https://openreview.net/pdf?id=po-DLlBuAuz)\]
+    * Yijie Guo, <ins>Shengyu Feng</ins>, Nicolas Le Roux, Ed Chi, Honglak Lee and Minmin Chen
+    * International Conference on Learning Representations (ICLR), 2021 
+
+* **Memory Based Trajectory-conditioned Policies for Learning from Sparse Rewards** \[[pdf](https://openreview.net/pdf?id=Byg5KyHYwr)\]
+  *  Yijie Guo, Jongwook Choi, Marcin Moczulski, <ins>Shengyu Feng</ins>, Samy Bengio, Mohammad Norouzi and Honglak Lee
+  *  Neural Information Processing Systems (NeurIPS) 2020
+
