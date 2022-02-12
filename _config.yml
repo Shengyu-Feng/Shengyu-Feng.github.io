@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Shengyu Feng"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  avatar           : "shengyuf.png"
+  bio              : "Master's student at the University of Illinois at Urbana-Champaign"
   location         : "Urbana, IL, 61801"
   employer         :
   pubmed           : 
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "https://www.linkedin.com/in/shengyu-feng-331a6214b"
+  linkedin         : "shengyu-feng-331a6214b"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
