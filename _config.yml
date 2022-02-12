@@ -11,9 +11,9 @@ title                    : "Shengyu Feng"
 title_separator          : "-"
 name                     : &name "Shengyu Feng"
 description              : &description "M.S. Student at UIUC"
-url                      : https://shengyuf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://shengyu-feng.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "shengyuf.github.io"
+repository               : "shengyu-feng.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
