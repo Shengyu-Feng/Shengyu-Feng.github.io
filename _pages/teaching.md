@@ -7,7 +7,7 @@ author_profile: true
 
 *  CS 445 Computational Photography: Teaching Assistant
   * University of Illinois at Urbana-Champaign
-  * Instructor: Dr. Derek Hoime
+  * Instructor: Dr. Derek Homie
   *  [Fall 2020](https://courses.engr.illinois.edu/cs445/fa2020/), [Spring 2021](https://courses.engr.illinois.edu/cs445/sp2021/)
 
 * EECS 442 Computer Vision: Instructional Aide
