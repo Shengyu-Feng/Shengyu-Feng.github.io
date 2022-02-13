@@ -15,10 +15,10 @@ I am broadly interested in various topics of machine learning, with a special re
 
 Education
 ======
-* B.S. in Electrical and Computer Engineering, [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), 2016 - 2020 
-* B.S.E in Computer Science, [University of Michigan](https://umich.edu/), 2018 - 2020
+* B.S. in Electrical and Computer Engineering, [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/), Sep. 2016 - Aug. 2020 
+* B.S.E in Computer Science, [University of Michigan](https://umich.edu/), Aug. 2018 - May 2020
     * Advisor: Dr. [Honglak Lee](https://web.eecs.umich.edu/~honglak/hl_news.html)
-* M.S. in Computer Science, [University of Illinois at Urbana-Champaign](https://illinois.edu/), 2020 - 2022 (expected)
+* M.S. in Computer Science, [University of Illinois at Urbana-Champaign](https://illinois.edu/), Aug. 2020 - May. 2022 (expected)
     * Advisor: Dr. [Hanghang Tong](http://tonghanghang.org/)
 
 Work Experience
