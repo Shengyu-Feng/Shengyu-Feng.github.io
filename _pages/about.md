@@ -21,10 +21,10 @@ Education
 * M.S. in Computer Science, University of Illinois at Urbana-Champaign, Aug. 2020 - May. 2022 (expected)
     * Advisor: Dr. [Hanghang Tong](http://tonghanghang.org/)
 
-Work Experience
+Work experience
 ======
 
-* **Intel AI Lab**, May 2021 - Aug. 2021
+* Intel AI Lab, May 2021 - Aug. 2021
   * Research Intern on the dynamic scene graph generation
   * Mentors: Dr. Subarna Tripathi, Dr. Hesham Mostafa and Dr. Marcel Nassar
   
