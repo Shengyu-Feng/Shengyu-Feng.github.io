@@ -13,7 +13,7 @@ permalink: /publications/
   * <ins>Shengyu Feng</ins>, Subarna Tripathi, Hesham Mostafa, Marcel Nassar and Somdeb Majumdar
   * Preprint
 
-* **Adversarial Graph Contrastive Learning with Information Regularization**
+* **Adversarial Graph Contrastive Learning with Information Regularization**\[[pdf](https://arxiv.org/abs/2202.06491)\]
   * <ins>Shengyu Feng</ins>, Baoyu Jing, Yada Zhu and Hanghang Tong
   * ACM Web Conference (WWW), 2022
   
