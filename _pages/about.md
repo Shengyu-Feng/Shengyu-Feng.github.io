@@ -34,4 +34,4 @@ Work experience
   
 Service 
 ======
-* Reviewer for NeurIPS 2021, ICLR 2022, ICML 2022, ICDCS 2022 and NeurIPS 2022.
+* Reviewer for NeurIPS 2021, ICLR 2022, ICML 2022, ICDCS 2022 and NeurIPS 2022
