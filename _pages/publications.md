@@ -9,6 +9,10 @@ permalink: /publications/
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+* **X-GOAL: Multiplex Graph Prototypical Contrastive Learning** 
+  * Baoyu Jing, <ins>Shengyu Feng</ins>, Yuejia Xiang, Xi Chen, Yu Chen and Hanghang Tong
+  * ACM International Conference on Information and Knowledge Management (CIKM), 2022
+
 * **Exploiting Long-Term Dependencies for Generating Dynamic Scene Graphs** \[[pdf](https://arxiv.org/abs/2112.09828)\]
   * <ins>Shengyu Feng</ins>, Subarna Tripathi, Hesham Mostafa, Marcel Nassar and Somdeb Majumdar
   * Preprint
