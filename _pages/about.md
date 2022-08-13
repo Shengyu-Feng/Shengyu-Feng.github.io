@@ -9,12 +9,13 @@ redirect_from:
 ---
 
 
-I am an incoming Ph.D. student to [Language Technologies Institute](lti.cs.cmu.edu), Carnegie Mellon University. Before that, I received my M.S. in Computer Science from [University of Illinois at Urbana-Champaign](https://illinois.edu/) in 2022, and B.S.E in Computer Science from [University of Michigan](https://umich.edu/) and B.S in Electrical and Computer Engineering from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) in 2020.
+I am a first-year Ph.D. student in [Language Technologies Institute](lti.cs.cmu.edu), Carnegie Mellon University. Before that, I received my M.S. in Computer Science from [University of Illinois at Urbana-Champaign](https://illinois.edu/) in 2022, and B.S.E in Computer Science from [University of Michigan](https://umich.edu/) and B.S in Electrical and Computer Engineering from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) in 2020.
 
 I am broadly interested in various topics of machine learning, with a special research interest in the graph mining and structure discovery. My previous research experiences span the area of deep reinforcement learning, graph representation learning, information extraction, video understanding and few-shot learning.
 
 Education
 ======
+* Ph.D. in Language and Information Technologies, Carnegie Mellon University, Aug. 2022 - Present
 * M.S. in Computer Science, University of Illinois at Urbana-Champaign, Aug. 2020 - May 2022
     * Advisor: Dr. [Hanghang Tong](http://tonghanghang.org/)
 * B.S.E in Computer Science, University of Michigan, Aug. 2018 - May 2020
