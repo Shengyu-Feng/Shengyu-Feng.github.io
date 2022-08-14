@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Shengyu Feng"
   avatar           : "shengyuf.png"
-  bio              : "Master's student at the University of Illinois at Urbana-Champaign"
-  location         : "Urbana, IL, USA, 61801"
+  bio              : "Ph.D. Student at Carnegie Mellon University"
+  location         : "Pittsburgh, PA, USA, 15208"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=ApUH8ZcAAAAJ&hl=en"
-  email            : "shengyu8@illinois.edu"
+  email            : "shengyuf@andrew.cs.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
