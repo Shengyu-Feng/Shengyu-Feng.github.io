@@ -9,7 +9,7 @@ permalink: /publications/
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-* **Concept Discovery for Fast Adaptation
+* **Concept Discovery for Fast Adaptation**
   * <ins>Shengyu Feng</ins>, Hanghang Tong
   * SIAM International Conference on Data Mining (SDM), 2023
 
