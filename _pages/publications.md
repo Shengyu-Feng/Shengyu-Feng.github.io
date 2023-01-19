@@ -9,7 +9,9 @@ permalink: /publications/
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-
+* **Concept Discovery for Fast Adaptation
+  * <ins>Shengyu Feng</ins>, Hanghang Tong
+  * SIAM International Conference on Data Mining (SDM), 2023
 
 * **Exploiting Long-Term Dependencies for Generating Dynamic Scene Graphs** \[[pdf](https://arxiv.org/abs/2112.09828)\]
   * <ins>Shengyu Feng</ins>, Subarna Tripathi, Hesham Mostafa, Marcel Nassar and Somdeb Majumdar
