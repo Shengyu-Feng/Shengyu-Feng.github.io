@@ -9,15 +9,15 @@ permalink: /publications/
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-* **Concept Discovery for Fast Adaptation**
+* **Concept Discovery for Fast Adaptation** \[[pdf](https://arxiv.org/abs/2301.07850)\]
   * <ins>Shengyu Feng</ins>, Hanghang Tong
   * SIAM International Conference on Data Mining (SDM), 2023
 
-* **Exploiting Long-Term Dependencies for Generating Dynamic Scene Graphs** \[[pdf](https://arxiv.org/abs/2112.09828)\]
+* **Exploiting Long-Term Dependencies for Generating Dynamic Scene Graphs**  \[[pdf](https://arxiv.org/abs/2112.09828)\]
   * <ins>Shengyu Feng</ins>, Subarna Tripathi, Hesham Mostafa, Marcel Nassar and Somdeb Majumdar
   * IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2023
 
-* **X-GOAL: Multiplex Graph Prototypical Contrastive Learning** \[[pdf](https://arxiv.org/abs/2109.03560)\]
+* **X-GOAL: Multiplex Graph Prototypical Contrastive Learning**  \[[pdf](https://arxiv.org/abs/2109.03560)\]
   * Baoyu Jing, <ins>Shengyu Feng</ins>, Yuejia Xiang, Xi Chen, Yu Chen and Hanghang Tong
   * ACM International Conference on Information and Knowledge Management (CIKM), 2022
 
