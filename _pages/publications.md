@@ -10,7 +10,7 @@ permalink: /publications/
 {% endif %}
 
 * **DIFUSCO-LNS: Diffusion-Guided Large Neighbourhood Search for Integer Linear Programming**
-  * <ins>Shengyu Feng*</ins>, Zhiqing Sun* and Yiminig Yang
+  * <ins>Shengyu Feng\*</ins>, Zhiqing Sun\* and Yiminig Yang
   * Under Review 
 
 * **Learning to Branch with Offline Reinforcement Learning** 
