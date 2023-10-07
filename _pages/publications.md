@@ -9,6 +9,18 @@ permalink: /publications/
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+* **DIFUSCO-LNS: Diffusion-Guided Large Neighbourhood Search for Integer Linear Programming
+  * <ins>Shengyu Feng*</ins>, Zhiqing Sun* and Yiminig Yang
+  * Under Review 
+
+* **Learning to Branch with Offline Reinforcement Learning
+  * <ins>Shengyu Feng</ins>, Yiming Yang
+  * Under Review 
+
+* **mproving Graph Neural Networks over Large-Scale Heterophilic Graphs** 
+  * <ins>Shengyu Feng</ins>, Yiming Yang
+  * Under Review
+
 * **Concept Discovery for Fast Adaptation** \[[pdf](https://arxiv.org/abs/2301.07850)\]
   * <ins>Shengyu Feng</ins>, Hanghang Tong
   * SIAM International Conference on Data Mining (SDM), 2023
