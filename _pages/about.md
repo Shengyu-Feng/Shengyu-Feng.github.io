@@ -20,7 +20,6 @@ Education
 * M.S. in Computer Science, University of Illinois at Urbana-Champaign, Aug. 2020 - May 2022
     * Advisor: [Hanghang Tong](http://tonghanghang.org/)
 * B.S.E in Computer Science, University of Michigan, Aug. 2018 - May 2020
-    * Advisor: [Honglak Lee](https://web.eecs.umich.edu/~honglak/)
 * B.S. in Electrical and Computer Engineering, Shanghai Jiao Tong University, Sep. 2016 - Aug. 2020 
 
 
