@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 
-I am a second-year Ph.D. student in [Language Technologies Institute](lti.cs.cmu.edu), Carnegie Mellon University. I am fortunately advised by Prof. [Yiming Yang](https://www.cs.cmu.edu/~./yiming/). Before that, I received my M.S. in Computer Science from [University of Illinois at Urbana-Champaign](https://illinois.edu/) in 2022, and B.S.E in Computer Science from [University of Michigan](https://umich.edu/) and B.S in Electrical and Computer Engineering from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) in 2020.
+I am a third-year Ph.D. student in [Language Technologies Institute](lti.cs.cmu.edu), Carnegie Mellon University. I am fortunately advised by Prof. [Yiming Yang](https://www.cs.cmu.edu/~./yiming/). Before that, I received my M.S. in Computer Science from [University of Illinois at Urbana-Champaign](https://illinois.edu/) in 2022, and B.S.E in Computer Science from [University of Michigan](https://umich.edu/) and B.S in Electrical and Computer Engineering from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) in 2020.
 
-I am generally interested in the research of Graph Neural Networks and Reinforcement Learning. My recent research focuses on the development of neural combinatorial optimization solvers.
+I am generally interested in the research of Graph Neural Networks and Reinforcement Learning. My recent research focuses on the development of neural combinatorial optimization solvers and advancement of Large Language Model's reasoning ability.
 
 Education
 ======
@@ -26,12 +26,13 @@ Education
 
 Work experience
 ======
+
+* Apple AIML, May 2024 - Aug. 2024
+
 * Microsoft Research, May 2022 - Aug. 2022
-  * Research Intern on the knowledge graph enhanced news summarization
   
 * Intel AI Lab, May 2021 - Aug. 2021
-  * Research Intern on the dynamic scene graph generation
   
 Service 
 ======
-* Reviewer for NeurIPS (2021-2023), ICLR (2022-2024) and ICML (2022-2023)
+* Reviewer for NeurIPS, ICLR and ICML
