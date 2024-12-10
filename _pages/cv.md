@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[CV](../files/Shengyu_Feng_CV.pdf) (Last updated Oct. 2023)
+[CV](../files/Shengyu_Feng_CV.pdf) (Last updated Dec. 2024)

@@ -9,17 +9,19 @@ permalink: /publications/
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-* **DIFUSCO-LNS: Diffusion-Guided Large Neighbourhood Search for Integer Linear Programming**
-  * <ins>Shengyu Feng\*</ins>, Zhiqing Sun\* and Yiminig Yang
+
+* **Step-by-Step Reasoning for Math Problems via Twisted Sequential Monte Carlo**
+  * <ins>Shengyu Feng</ins>, Xiang Kong, Shuang Ma, Aonan Zhang, Dong Yin, Chong Wang, Ruoming Pang and Yiming Yang
   * Under Review 
 
-* **Learning to Branch with Offline Reinforcement Learning** 
-  * <ins>Shengyu Feng</ins>, Yiming Yang
+
+* **Sampling-Enhanced Large Neighborhood Search for Solving Integer Linear Programs**
+  * <ins>Shengyu Feng</ins>, Zhiqing Sun and Yiminig Yang
   * Under Review 
 
-* **Improving Graph Neural Networks over Large-Scale Heterophilic Graphs** 
+* **SORREL: Suboptimal-Demonstration-Guided Reinforcement Learning for Learning to Branch** 
   * <ins>Shengyu Feng</ins>, Yiming Yang
-  * Under Review
+  * Annual AAAI Conference on Artificial Intelligence (AAAI), 2025
 
 * **Concept Discovery for Fast Adaptation** \[[pdf](https://arxiv.org/abs/2301.07850)\]
   * <ins>Shengyu Feng</ins>, Hanghang Tong
