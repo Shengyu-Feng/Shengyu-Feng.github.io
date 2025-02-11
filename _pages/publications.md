@@ -9,7 +9,8 @@ permalink: /publications/
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-* **Regularized Langevin Dynamics for Combinatorial Optimization** 
+
+* **Regularized Langevin Dynamics for Combinatorial Optimization** \[[pdf](https://arxiv.org/abs/2502.00277)\]
   * <ins>Shengyu Feng</ins>, Yiming Yang
   * Under Review
 
@@ -23,7 +24,7 @@ permalink: /publications/
   * <ins>Shengyu Feng</ins>, Zhiqing Sun and Yiminig Yang
   * Under Review 
 
-* **SORREL: Suboptimal-Demonstration-Guided Reinforcement Learning for Learning to Branch** 
+* **SORREL: Suboptimal-Demonstration-Guided Reinforcement Learning for Learning to Branch** \[[pdf](https://arxiv.org/pdf/2412.15534)\]
   * <ins>Shengyu Feng</ins>, Yiming Yang
   * Annual AAAI Conference on Artificial Intelligence (AAAI), 2025
   
