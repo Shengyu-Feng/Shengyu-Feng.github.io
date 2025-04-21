@@ -11,7 +11,7 @@ redirect_from:
 
 I am a third-year Ph.D. student in [Language Technologies Institute](lti.cs.cmu.edu), Carnegie Mellon University. I am fortunately advised by Prof. [Yiming Yang](https://www.cs.cmu.edu/~./yiming/). Before that, I received my M.S. in Computer Science from [University of Illinois at Urbana-Champaign](https://illinois.edu/) in 2022, and B.S.E in Computer Science from [University of Michigan](https://umich.edu/) and B.S in Electrical and Computer Engineering from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) in 2020.
 
-I am generally interested in the research of Graph Neural Networks and Reinforcement Learning. My recent research focuses on the development of neural combinatorial optimization solvers and advancement of Large Language Model's reasoning ability.
+I am interested in solving mathematical problems, particularly in combinatorial optimization, by applying machine learning methods such as statistical sampling, graph neural networks, reinforcement learning, and large language models.
 
 Education
 ======
