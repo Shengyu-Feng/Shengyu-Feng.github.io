@@ -22,7 +22,7 @@ permalink: /publications/
 
 * **SORREL: Suboptimal-Demonstration-Guided Reinforcement Learning for Learning to Branch** \[[pdf](https://arxiv.org/pdf/2412.15534)\]
   * <ins>Shengyu Feng</ins>, Yiming Yang
-  * Annual AAAI Conference on Artificial Intelligence (AAAI) ORAL, 2025. (<span style="color:red">Oral</span>.)
+  * Annual AAAI Conference on Artificial Intelligence (AAAI), 2025. (<span style="color:red">Oral</span>)
   
 * **ARIEL: Adversarial Graph Contrastive Learning** \[[pdf](https://arxiv.org/pdf/2208.06956)\]
   * <ins>Shengyu Feng</ins>, Baoyu Jing, Yada Zhu and Hanghang Tong.
