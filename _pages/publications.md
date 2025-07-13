@@ -27,7 +27,7 @@ author_profile: true
   * International Conference on Learning Representations (**ICLR**), 2025. 
 
 
-* **SORREL: Suboptimal-Demonstration-Guided Reinforcement Learning for Learning to Branch** \[[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/33219)\][\[code\](https://github.com/Shengyu-Feng/SORREL)\]
+* **SORREL: Suboptimal-Demonstration-Guided Reinforcement Learning for Learning to Branch** \[[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/33219)\]\[[code](https://github.com/Shengyu-Feng/SORREL)\]
   * <ins>Shengyu Feng</ins>, Yiming Yang
   * Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2025. (<span style="color:red">Oral</span>)
   
