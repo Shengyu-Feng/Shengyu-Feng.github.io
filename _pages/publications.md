@@ -49,7 +49,7 @@ author_profile: true
 
 * **Adversarial Graph Contrastive Learning with Information Regularization** \[[pdf](https://arxiv.org/abs/2202.06491)\]\[[code](https://github.com/Shengyu-Feng/ARIEL)\]
   * <ins>Shengyu Feng</ins>, Baoyu Jing, Yada Zhu and Hanghang Tong
-  * ACM Web Conference (WWW), 2022.
+  * ACM Web Conference (**WWW**), 2022.
   
 * **Batch Reinforcement Learning through Continuation Method** \[[pdf](https://openreview.net/pdf?id=po-DLlBuAuz)\]
     * Yijie Guo, <ins>Shengyu Feng</ins>, Nicolas Le Roux, Ed Chi, Honglak Lee and Minmin Chen
