@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "Shengyu Feng (*Siebel Scholar Class 2022*)
+title: "Shengyu Feng <span style="color:red">(*Siebel Scholar Class 2022*)</span>"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
 
 I am a third-year Ph.D. student in [Language Technologies Institute](lti.cs.cmu.edu), Carnegie Mellon University. I am fortunately advised by Prof. [Yiming Yang](https://www.cs.cmu.edu/~./yiming/). Before that, I received my M.S. in Computer Science from [University of Illinois at Urbana-Champaign](https://illinois.edu/) in 2022, and B.S.E in Computer Science from [University of Michigan](https://umich.edu/) and B.S in Electrical and Computer Engineering from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) in 2020.
 
