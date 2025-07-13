@@ -27,7 +27,7 @@ author_profile: true
   * International Conference on Learning Representations (**ICLR**), 2025. 
 
 
-* **SORREL: Suboptimal-Demonstration-Guided Reinforcement Learning for Learning to Branch** \[[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/33219)\][\[code\](https://github.com/Shengyu-Feng/SORREL)]
+* **SORREL: Suboptimal-Demonstration-Guided Reinforcement Learning for Learning to Branch** \[[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/33219)\][\[code\](https://github.com/Shengyu-Feng/SORREL)\]
   * <ins>Shengyu Feng</ins>, Yiming Yang
   * Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2025. (<span style="color:red">Oral</span>)
   
@@ -39,7 +39,7 @@ author_profile: true
   * <ins>Shengyu Feng</ins>, Hanghang Tong
   * SIAM International Conference on Data Mining (**SDM**), 2023.
 
-* **Exploiting Long-Term Dependencies for Generating Dynamic Scene Graphs**  \[[pdf](https://arxiv.org/abs/2112.09828)\]
+* **Exploiting Long-Term Dependencies for Generating Dynamic Scene Graphs**  \[[pdf](https://arxiv.org/abs/2112.09828)\]\[[code](https://github.com/Shengyu-Feng/DSG-DETR)\]
   * <ins>Shengyu Feng</ins>, Subarna Tripathi, Hesham Mostafa, Marcel Nassar and Somdeb Majumdar
   * IEEE/CVF Winter Conference on Applications of Computer Vision (**WACV**), 2023.
 
