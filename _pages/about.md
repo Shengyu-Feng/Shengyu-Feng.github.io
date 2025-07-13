@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shengyu Feng (*Siebel Scholar Class 2022*)"
+title: "Shengyu Feng"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -17,7 +17,7 @@ Research Interest
 
 My research focuses on developing **artificial intelligence for mathematical problem solving (AI4Math)**, with an emphasis on methods that require minimal or no human supervision. I currently pursue two primary directions: 
 
- * Large Language Model (LLM)-based mathematical reasoning
- * Neural approaches for combinatorial optimization (CO).
+ * Large Language Model (LLM)-based mathematical reasoning ([FrontierCO](https://arxiv.org/abs/2505.16952), [CO-Bench](https://arxiv.org/abs/2504.04310), [TSMC](https://openreview.net/forum?id=Ze4aPP0tIn))
+ * Neural approaches for combinatorial optimization ([FrontierCO](https://arxiv.org/abs/2505.16952), [RLD4CO](https://openreview.net/forum?id=bbJ0QCujU4), [SORREL](https://ojs.aaai.org/index.php/AAAI/article/view/33219))
 
-In addition, I apply CO to real-world applications such as high-performance computing, computer vision, biology, and information extraction. My earlier work spans self-supervised graph representation learning and reinforcement learning.
+In addition, I apply combinatorial optimization to real-world applications such as high-performance computing, computer vision, biology, and information extraction. My earlier work spans self-supervised graph representation learning and reinforcement learning.
