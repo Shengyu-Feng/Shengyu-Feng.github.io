@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year Ph.D. student in [Language Technologies Institute](lti.cs.cmu.edu), Carnegie Mellon University. I am fortunately advised by Prof. [Yiming Yang](https://www.cs.cmu.edu/~./yiming/). Before that, I received my M.S. in Computer Science from [University of Illinois at Urbana-Champaign](https://illinois.edu/) in 2022, and B.S.E in Computer Science from [University of Michigan](https://umich.edu/) and B.S in Electrical and Computer Engineering from [Shanghai Jiao Tong University](https://en.sjtu.edu.cn/) in 2020.
+I am a third-year Ph.D. student in [Language Technologies Institute](lti.cs.cmu.edu), Carnegie Mellon University. I am fortunately advised by Prof. [Yiming Yang](https://www.cs.cmu.edu/~./yiming/). Before that, I received my M.S. in Computer Science from University of Illinois at Urbana-Champaign in 2022, and B.S.E in Computer Science from University of Michigan and B.S in Electrical and Computer Engineering from Shanghai Jiao Tong University in 2020.
 
 [Curriculum Vitae](../files/Shengyu_Feng_CV.pdf) (Last updated July 2025)
 
