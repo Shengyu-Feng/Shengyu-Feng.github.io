@@ -232,9 +232,10 @@ defaults:
       path: ""
       type: talks
     values:
-      layout: talk
+      layout: sinle
       author_profile: true
       share: true
+      comments: true
 
 # Sass/SCSS
 sass:
