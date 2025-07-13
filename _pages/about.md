@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shengyu Feng (Siebel Scholar Class 2022)"
+title: "Shengyu Feng <span style="color:red">(*Siebel Scholar Class 2022*)</span>"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
