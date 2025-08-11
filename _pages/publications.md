@@ -12,7 +12,7 @@ author_profile: true
 
 * **Alternative Mixed Integer Linear Programming Optimization for Joint Job Scheduling and Data Allocation in Grid Computing** \[[pdf](https://arxiv.org/abs/2502.00261)\]
   * <ins>Shengyu Feng</ins>\*, Jaehyung Kim\*, Yiming Yang, Joseph Boudreau, Tasnuva Chowdhury, Adolfy Hoisie, Raees Khan, Ozgur O. Kilic, Scott Klasky, Tatiana Korchuganova, Paul Nilsson, Verena Ingrid Martinez Outschoorn, David K. Park, Norbert Podhorszki, Yihui Ren, Frederic Suter, Sairam Sri Vatsavai, Wei Yang, Shinjae Yoo, Tadashi Maeno, and Alexei Klimentov
-  * Future Generation and Computer Systems (FGCS).
+  * Future Generation and Computer Systems (**FGCS**).
 
 * **A Comprehensive Evaluation of Contemporary Machine-Learning-Based Solvers for Combinatorial Optimization** \[[pdf](https://arxiv.org/abs/2505.16952)]\[[data](https://huggingface.co/datasets/CO-Bench/FrontierCO)\]
   * <ins>Shengyu Feng</ins>\*, Weiwei Sun\*, Shanda Li, Ameet Talwalker, Yiming Yang
