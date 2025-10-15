@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 * **Dual-Weighted Reinforcement Learning for Generative Preference Modeling**
-  *<ins>Shengyu Feng</ins>, Yun He, Shuang Ma, Beibin Li, Yuanhao Xiong, Vincent Li, Karishma Mandyam, Julian Katz-Samuels, Shengjie Bi, Licheng Yu, Hejia Zhang, Karthik Abinav Sankararaman, Han Fang, Riham Mansour, Yiming Yang, and Manaal Faruqui.
+  * <ins>Shengyu Feng</ins>, Yun He, Shuang Ma, Beibin Li, Yuanhao Xiong, Vincent Li, Karishma Mandyam, Julian Katz-Samuels, Shengjie Bi, Licheng Yu, Hejia Zhang, Karthik Abinav Sankararaman, Han Fang, Riham Mansour, Yiming Yang, and Manaal Faruqui.
   * Preprint.
 
 * **Alternative Mixed Integer Linear Programming Optimization for Joint Job Scheduling and Data Allocation in Grid Computing** \[[pdf](https://arxiv.org/abs/2502.00261)\]
