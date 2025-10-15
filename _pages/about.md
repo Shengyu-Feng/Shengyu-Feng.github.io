@@ -20,6 +20,6 @@ My research focuses on the **discrete generative models** and **combinatorial op
 
 Selected Works
 ======
- * Large Language Model: [DWRL](https://shengyu-feng.github.io/publications/), [TSMC4Math](https://openreview.net/forum?id=Ze4aPP0tIn))
+ * Large Language Model: [DWRL](https://shengyu-feng.github.io/publications/), [TSMC4Math](https://openreview.net/forum?id=Ze4aPP0tIn)
  * Combinatorial Optimization: [FrontierCO](https://arxiv.org/abs/2505.16952), [RLD4CO](https://openreview.net/forum?id=bbJ0QCujU4), [SORREL](https://ojs.aaai.org/index.php/AAAI/article/view/33219)
 
