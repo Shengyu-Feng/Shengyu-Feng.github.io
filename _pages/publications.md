@@ -18,8 +18,8 @@ author_profile: true
   * Preprint
   
 * **Error Analysis of Globally Distributed Workflow Management System** 
-  * Sankha Dutta, Ozgur O. Kilic, Tatiana Korchuganova1, Paul Nilsson, Sairam Sri Vatsavai, Kuan-Chieh Hsu, David K. Park, Joseph Boudreau, Tasnuva Chowdhury, <ins>Shengyu Feng</ins>, Raees Khan, Jaehyung Kim, Scott Klasky, Tadashi Maeno, Verena Ingrid Martinez Outschoorn, Norbert Podhorszki, Yihui Ren, Frederic Suter, Wei Yang, Yiming Yang, Shinjae Yoo, Alexei Klimentov, and Adolfy Hoisie. 
-  * Workshop on Emerging Parallel and Distributed Runtime Systems and Middleware, **SC25**.
+  * Sankha Dutta, Ozgur O. Kilic, Tatiana Korchuganova1, Paul Nilsson, Sairam Sri Vatsavai, Kuan-Chieh Hsu, David K. Park, Joseph Boudreau, Tasnuva Chowdhury, <ins>Shengyu Feng</ins>, Raees Khan, Jaehyung Kim, Scott Klasky, Tadashi Maeno, Verena Ingrid Martinez Outschoorn, Norbert Podhorszki, Yihui Ren, Frederic Suter, Wei Yang, Yiming Yang, Shinjae Yoo, Alexei Klimentov, and Adolfy Hoisie
+  * Workshop on Emerging Parallel and Distributed Runtime Systems and Middleware, **SC25**
   
 * **Data Management System Analysis for Distributed Computing Workloads** \[[pdf](https://arxiv.org/abs/2510.00828)\]
   * Kuan-Chieh Hsu, Sairam Sri Vatsavai, Ozgur O. Kilic, Tatiana Korchuganova, Paul Nilsson, Sankha Dutta, Yihui Ren,
@@ -28,11 +28,11 @@ David K. Park, Joseph Boudreau, Tasnuva Chowdhury, <ins>Shengyu Feng</ins>, Raee
   
 * **CGSim: A Simulation Framework for Large Scale Distributed Computing Environment** \[[pdf](https://arxiv.org/abs/2510.00822)\]
   * Sairam Sri Vatsavai, Raees Khan, Kuan-Chieh Hsu, Ozgur O. Kilic, Paul Nilsson, Tatiana Korchuganova, David K. Park, Sankha Dutta, Yihui Ren, Joseph Boudreau, Tasnuva Chowdhury, <ins>Shengyu Feng</ins>, Jaehyung Kim, Scott Klasky, Tadashi Maeno, Verena Ingrid Martinez, Norbert Podhorszki, Frederic Suter, Wei Yang, Yiming Yang, Shinjae Yoo, Alexei Klimentov, and Adolfy Hoisie. 
-  * Workshop on Performance Modeling, Benchmarking and Simulation of High Performance Computer Systems (PMBS), **SC25** (<span style="color:red">Best short paper award</span>)
+  * Workshop on Performance Modeling, Benchmarking and Simulation of High Performance Computer Systems (PMBS), **SC25** <span style="color:red">(Best short paper award)</span>
 
 * **Alternative Mixed Integer Linear Programming Optimization for Joint Job Scheduling and Data Allocation in Grid Computing** \[[pdf](https://arxiv.org/abs/2502.00261)\]
   * <ins>Shengyu Feng</ins>\*, Jaehyung Kim\*, Yiming Yang, Joseph Boudreau, Tasnuva Chowdhury, Adolfy Hoisie, Raees Khan, Ozgur O. Kilic, Scott Klasky, Tatiana Korchuganova, Paul Nilsson, Verena Ingrid Martinez Outschoorn, David K. Park, Norbert Podhorszki, Yihui Ren, Frederic Suter, Sairam Sri Vatsavai, Wei Yang, Shinjae Yoo, Tadashi Maeno, and Alexei Klimentov
-  * Future Generation and Computer Systems (**FGCS**).
+  * Future Generation and Computer Systems (**FGCS**)
 
 * **A Comprehensive Evaluation of Contemporary Machine-Learning-Based Solvers for Combinatorial Optimization** \[[pdf](https://arxiv.org/abs/2505.16952)\]\[[data](https://huggingface.co/datasets/CO-Bench/FrontierCO)\]
   * <ins>Shengyu Feng</ins>\*, Weiwei Sun\*, Shanda Li, Ameet Talwalker, and Yiming Yang
@@ -52,7 +52,7 @@ David K. Park, Joseph Boudreau, Tasnuva Chowdhury, <ins>Shengyu Feng</ins>, Raee
 
 * **SORREL: Suboptimal-Demonstration-Guided Reinforcement Learning for Learning to Branch** \[[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/33219)\]\[[code](https://github.com/Shengyu-Feng/SORREL)\]
   * <ins>Shengyu Feng</ins> and Yiming Yang
-  * Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2025 (<span style="color:red">Oral</span>
+  * Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2025 <span style="color:red">(Oral)</span>
   
 * **AI Surrogate Model for Distributed Computing Workloads**
   * David K. Park, Yihui Ren, Ozgur O. Kilic, Tatiana Korchuganova, Sairam Sri Vatsavai, Joseph Boudreau, Tasnuva Chowdhury, <ins>Shengyu Feng</ins>, Raees Khan, Jaehyung Kim, Scott Klasky, Tadashi Maeno, Paul Nilsson, Verena Ingrid Martinez Outschoorn, Norbert Podhorszki, Frederic Suter, Wei Yang, Yiming Yang, Shinjae Yoo, Alexei Klimentov, and Adolfy Hoisie 
