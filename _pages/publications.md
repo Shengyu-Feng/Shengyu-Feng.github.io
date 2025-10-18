@@ -18,7 +18,7 @@ author_profile: true
   * Preprint
   
 * **Error Analysis of Globally Distributed Workflow Management System** 
-  * Sankha Dutta, Ozgur O. Kilic, Tatiana Korchuganova1, Paul Nilsson, Sairam Sri Vatsavai, Kuan-Chieh Hsu, David K. Park, Joseph Boudreau, Tasnuva Chowdhury, <ins>Shengyu Feng</ins>, Raees Khan, Jaehyung Kim, Scott Klasky, Tadashi Maeno, Verena Ingrid Martinez Outschoorn, Norbert Podhorszki, Yihui Ren, Frederic Suter, Wei Yang, Yiming Yang, Shinjae Yoo, Alexei Klimentov, and Adolfy Hoisie
+  * Sankha Dutta, Ozgur O. Kilic, Tatiana Korchuganova, Paul Nilsson, Sairam Sri Vatsavai, Kuan-Chieh Hsu, David K. Park, Joseph Boudreau, Tasnuva Chowdhury, <ins>Shengyu Feng</ins>, Raees Khan, Jaehyung Kim, Scott Klasky, Tadashi Maeno, Verena Ingrid Martinez Outschoorn, Norbert Podhorszki, Yihui Ren, Frederic Suter, Wei Yang, Yiming Yang, Shinjae Yoo, Alexei Klimentov, and Adolfy Hoisie
   * Workshop on Emerging Parallel and Distributed Runtime Systems and Middleware, **SC25**
   
 * **Data Management System Analysis for Distributed Computing Workloads** \[[pdf](https://arxiv.org/abs/2510.00828)\]
