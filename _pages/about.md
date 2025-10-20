@@ -15,11 +15,13 @@ I am a fourth-year Ph.D. student in [Language Technologies Institute](lti.cs.cmu
 Research Interest
 ======
 
-My research focuses on the **discrete generative models** and **combinatorial optimization**, with application to text and graph data.
+My research focuses on the **discrete generative models** and **combinatorial optimization**, with application to text and graph data. 
+
+In addition, I am dedicated to advancing **AI-for-Science** by developing machine learning methods to enhance the efficiency of distributed computing systems used in high-energy physics experiments.
 
 
 Selected Works
 ======
  * Large Language Model: [DWRL](https://shengyu-feng.github.io/publications/), [TSMC4Math](https://openreview.net/forum?id=Ze4aPP0tIn)
- * Combinatorial Optimization: [FrontierCO](https://arxiv.org/abs/2505.16952), [RLD4CO](https://openreview.net/forum?id=bbJ0QCujU4), [SORREL](https://ojs.aaai.org/index.php/AAAI/article/view/33219)
-
+ * Combinatorial Optimization: [FrontierCO](https://arxiv.org/abs/2505.16952), [RLD4CO](https://openreview.net/forum?id=bbJ0QCujU4)
+* Distributed computing: [AlterMILP](https://www.sciencedirect.com/science/article/pii/S0167739X25003693)

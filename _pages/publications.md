@@ -9,7 +9,7 @@ author_profile: true
   You can also find my complete publication list on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-* **Dual-Weighted Reinforcement Learning for Generative Preference Modeling** 
+* **Dual-Weighted Reinforcement Learning for Generative Preference Modeling** \[[pdf](https://arxiv.org/abs/2510.15242)\]
   * <ins>Shengyu Feng</ins>, Yun He, Shuang Ma, Beibin Li, Yuanhao Xiong, Vincent Li, Karishma Mandyam, Julian Katz-Samuels, Shengjie Bi, Licheng Yu, Hejia Zhang, Karthik Abinav Sankararaman, Han Fang, Riham Mansour, Yiming Yang, and Manaal Faruqui
   * Preprint
   
@@ -30,7 +30,7 @@ David K. Park, Joseph Boudreau, Tasnuva Chowdhury, <ins>Shengyu Feng</ins>, Raee
   * Sairam Sri Vatsavai, Raees Khan, Kuan-Chieh Hsu, Ozgur O. Kilic, Paul Nilsson, Tatiana Korchuganova, David K. Park, Sankha Dutta, Yihui Ren, Joseph Boudreau, Tasnuva Chowdhury, <ins>Shengyu Feng</ins>, Jaehyung Kim, Scott Klasky, Tadashi Maeno, Verena Ingrid Martinez, Norbert Podhorszki, Frederic Suter, Wei Yang, Yiming Yang, Shinjae Yoo, Alexei Klimentov, and Adolfy Hoisie. 
   * Workshop on Performance Modeling, Benchmarking and Simulation of High Performance Computer Systems (PMBS), **SC25** <span style="color:red">(Best short paper award)</span>
 
-* **Alternative Mixed Integer Linear Programming Optimization for Joint Job Scheduling and Data Allocation in Grid Computing** \[[pdf](https://arxiv.org/abs/2502.00261)\]
+* **Alternative Mixed Integer Linear Programming Optimization for Joint Job Scheduling and Data Allocation in Grid Computing** \[[pdf](https://www.sciencedirect.com/science/article/pii/S0167739X25003693)\]
   * <ins>Shengyu Feng</ins>\*, Jaehyung Kim\*, Yiming Yang, Joseph Boudreau, Tasnuva Chowdhury, Adolfy Hoisie, Raees Khan, Ozgur O. Kilic, Scott Klasky, Tatiana Korchuganova, Paul Nilsson, Verena Ingrid Martinez Outschoorn, David K. Park, Norbert Podhorszki, Yihui Ren, Frederic Suter, Sairam Sri Vatsavai, Wei Yang, Shinjae Yoo, Tadashi Maeno, and Alexei Klimentov
   * Future Generation and Computer Systems (**FGCS**)
 
