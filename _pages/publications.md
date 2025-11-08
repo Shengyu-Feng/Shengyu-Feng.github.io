@@ -9,6 +9,10 @@ author_profile: true
   You can also find my complete publication list on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+* **CO-Bench: Benchmarking Language Model Agents in Algorithm Search for Combinatorial Optimization** \[[pdf](https://arxiv.org/abs/2504.04310)\]\[[data](https://huggingface.co/datasets/CO-Bench/CO-Bench)\]
+  * Weiwei Sun\*, <ins>Shengyu Feng</ins>\*, Shanda Li, and Yiming Yang
+  * Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2026
+
 * **Dual-Weighted Reinforcement Learning for Generative Preference Modeling** \[[pdf](https://arxiv.org/abs/2510.15242)\]
   * <ins>Shengyu Feng</ins>, Yun He, Shuang Ma, Beibin Li, Yuanhao Xiong, Vincent Li, Karishma Mandyam, Julian Katz-Samuels, Shengjie Bi, Licheng Yu, Hejia Zhang, Karthik Abinav Sankararaman, Han Fang, Riham Mansour, Yiming Yang, and Manaal Faruqui
   * Preprint
@@ -37,10 +41,6 @@ David K. Park, Joseph Boudreau, Tasnuva Chowdhury, <ins>Shengyu Feng</ins>, Raee
 * **A Comprehensive Evaluation of Contemporary Machine-Learning-Based Solvers for Combinatorial Optimization** \[[pdf](https://arxiv.org/abs/2505.16952)\]\[[data](https://huggingface.co/datasets/CO-Bench/FrontierCO)\]
   * <ins>Shengyu Feng</ins>\*, Weiwei Sun\*, Shanda Li, Ameet Talwalker, and Yiming Yang
   * AI for MATH Workshop, **ICML** 2025
-  
-* **CO-Bench: Benchmarking Language Model Agents in Algorithm Search for Combinatorial Optimization** \[[pdf](https://arxiv.org/abs/2504.04310)\]\[[data](https://huggingface.co/datasets/CO-Bench/CO-Bench)\]
-  * Weiwei Sun\*, <ins>Shengyu Feng</ins>\*, Shanda Li, and Yiming Yang
-  * Preprint
 
 * **Regularized Langevin Dynamics for Combinatorial Optimization** \[[pdf](https://openreview.net/forum?id=bbJ0QCujU4)\]\[[code](https://github.com/Shengyu-Feng/RLD4CO)\]
   * <ins>Shengyu Feng</ins> and Yiming Yang
