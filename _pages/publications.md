@@ -9,7 +9,7 @@ author_profile: true
   You can also find my complete publication list on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-* **Rubric-Based Benchmarking and Reinforcement Learning for Advancing LLM Instruction Following** \[[pdf](https://arxiv.org/abs/2511.10507})\]
+* **Rubric-Based Benchmarking and Reinforcement Learning for Advancing LLM Instruction Following** \[[pdf](https://arxiv.org/abs/2511.10507)\]
     * Yun He\*, Wenzhe Li\*, Hejia Zhang, Songlin Li, Karishma Mandyam, Sopan Khosla, Yuanhao Xiong, Nanshu Wang, Selina Peng, Beibin Li, Shengjie Bi, Shishir G. Patil, Qi Qi, <ins>Shengyu Feng</ins>, Julian Katz-Samuels, Richard Yuanzhe Pang, Sujan Gonugondla, Hunter Lang, Yue Yu, Yundi Qian, Maryam Fazel-Zarandi, Licheng Yu, Amine Benhalloum, Hany Awadalla, and Manaal Faruqui.
     * Preprint
 

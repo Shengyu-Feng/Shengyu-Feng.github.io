@@ -10,7 +10,7 @@ redirect_from:
 
 I am a fourth-year Ph.D. student in [Language Technologies Institute](lti.cs.cmu.edu), Carnegie Mellon University. I am fortunately advised by Prof. [Yiming Yang](https://www.cs.cmu.edu/~./yiming/). Before that, I received my M.S. in Computer Science from University of Illinois at Urbana-Champaign in 2022, and B.S.E in Computer Science from University of Michigan and B.S in Electrical and Computer Engineering from Shanghai Jiao Tong University in 2020.
 
-[Curriculum Vitae](../files/Shengyu_Feng_CV.pdf) (Last updated Oct. 2025)
+[Curriculum Vitae](../files/Shengyu_Feng_CV.pdf) (Last updated Nov. 2025)
 
 Research Interest
 ======
