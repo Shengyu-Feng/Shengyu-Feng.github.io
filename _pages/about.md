@@ -22,6 +22,6 @@ In addition, I am dedicated to advancing **AI-for-Science** by developing machin
 
 Selected Works
 ======
- * Large Language Model: [DWRL](https://shengyu-feng.github.io/publications/), [TSMC4Math](https://openreview.net/forum?id=Ze4aPP0tIn)
+ * Large Language Model: [DWRL](https://arxiv.org/abs/2510.15242), [TSMC4Math](https://openreview.net/forum?id=Ze4aPP0tIn)
  * Combinatorial Optimization: [FrontierCO](https://arxiv.org/abs/2505.16952), [RLD4CO](https://openreview.net/forum?id=bbJ0QCujU4)
 * Distributed computing: [AlterMILP](https://www.sciencedirect.com/science/article/pii/S0167739X25003693)
