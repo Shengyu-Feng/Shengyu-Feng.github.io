@@ -9,6 +9,10 @@ author_profile: true
   You can also find my complete publication list on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
+* **Machine Learning-Driven Predictive Resource Management in Complex Science Workflows** \[[pdf](https://arxiv.org/abs/2509.11512)\]
+  * Tasnuva Chowdhury, Tadashi Maeno, Fatih Furkan Akman, Joseph Boudreau, Sankha Dutta, <ins>Shengyu Feng</ins>, Adolfy Hoisie, Kuan-Chieh Hsu, Raees Khan, Jaehyung Kim, Ozgur O. Kilic, Scott Klasky, Alexei Klimentov, Tatiana Korchuganova, Verena Ingrid Martinez Outschoorn, Paul Nilsson, David K. Park, Norbert Podhorszki, Yihui Ren, John Rembrandt Steele, Frederic Suter, Sairam Sri Vatsavai, Torre Wenaus, Wei Yang, Yiming Yang, and Shinjae Yoo
+  * International Journal of Modern Physicas A (IJMPA)
+
 * **Rubric-Based Benchmarking and Reinforcement Learning for Advancing LLM Instruction Following** \[[pdf](https://arxiv.org/abs/2511.10507)\]
     * Yun He\*, Wenzhe Li\*, Hejia Zhang, Songlin Li, Karishma Mandyam, Sopan Khosla, Yuanhao Xiong, Nanshu Wang, Selina Peng, Beibin Li, Shengjie Bi, Shishir G. Patil, Qi Qi, <ins>Shengyu Feng</ins>, Julian Katz-Samuels, Richard Yuanzhe Pang, Sujan Gonugondla, Hunter Lang, Yue Yu, Yundi Qian, Maryam Fazel-Zarandi, Licheng Yu, Amine Benhalloum, Hany Awadalla, and Manaal Faruqui.
     * Preprint
@@ -19,10 +23,6 @@ author_profile: true
 
 * **Dual-Weighted Reinforcement Learning for Generative Preference Modeling** \[[pdf](https://arxiv.org/abs/2510.15242)\]
   * <ins>Shengyu Feng</ins>, Yun He, Shuang Ma, Beibin Li, Yuanhao Xiong, Vincent Li, Karishma Mandyam, Julian Katz-Samuels, Shengjie Bi, Licheng Yu, Hejia Zhang, Karthik Abinav Sankararaman, Han Fang, Riham Mansour, Yiming Yang, and Manaal Faruqui
-  * Preprint
-  
-* **Machine Learning-Driven Predictive Resource Management in Complex Science Workflows** \[[pdf](https://arxiv.org/abs/2509.11512)\]
-  * Tasnuva Chowdhury, Tadashi Maeno, Fatih Furkan Akman, Joseph Boudreau, Sankha Dutta, <ins>Shengyu Feng</ins>, Adolfy Hoisie, Kuan-Chieh Hsu, Raees Khan, Jaehyung Kim, Ozgur O. Kilic, Scott Klasky, Alexei Klimentov, Tatiana Korchuganova, Verena Ingrid Martinez Outschoorn, Paul Nilsson, David K. Park, Norbert Podhorszki, Yihui Ren, John Rembrandt Steele, Frederic Suter, Sairam Sri Vatsavai, Torre Wenaus, Wei Yang, Yiming Yang, and Shinjae Yoo
   * Preprint
   
 * **Error Analysis of Globally Distributed Workflow Management System** 
