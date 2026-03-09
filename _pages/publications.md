@@ -13,11 +13,11 @@ author_profile: true
     * Yun He\*, Wenzhe Li\*, Hejia Zhang, Songlin Li, Karishma Mandyam, Sopan Khosla, Yuanhao Xiong, Nanshu Wang, Selina Peng, Beibin Li, Shengjie Bi, Shishir G. Patil, Qi Qi, <ins>Shengyu Feng</ins>, Julian Katz-Samuels, Richard Yuanzhe Pang, Sujan Gonugondla, Hunter Lang, Yue Yu, Yundi Qian, Maryam Fazel-Zarandi, Licheng Yu, Amine Benhalloum, Hany Awadalla, and Manaal Faruqui.
     * Preprint
 
-* **Dual-Weighted Reinforcement Learning for Generative Preference Modeling** \[[pdf](https://arxiv.org/abs/2510.15242)\]
-  * <ins>Shengyu Feng</ins>, Yun He, Shuang Ma, Beibin Li, Yuanhao Xiong, Vincent Li, Karishma Mandyam, Julian Katz-Samuels, Shengjie Bi, Licheng Yu, Hejia Zhang, Karthik Abinav Sankararaman, Han Fang, Riham Mansour, Yiming Yang, and Manaal Faruqui
+* **Bradley-Terry Policy Optimization for Generative Preference Modeling** \[[pdf](https://arxiv.org/abs/2510.15242)\]
+  * <ins>Shengyu Feng</ins>, Yun He, Shuang Ma, Beibin Li, Yuanhao Xiong, Vincent Li, Karishma Mandyam, Julian Katz-Samuels, Shengjie Bi, Licheng Yu, Hejia Zhang, Karthik Abinav Sankararaman, Han Fang, Yiming Yang, and Manaal Faruqui
   * Preprint
 
-* **A Comprehensive Evaluation of Contemporary Machine-Learning-Based Solvers for Combinatorial Optimization** \[[pdf](https://arxiv.org/abs/2505.16952)\]\[[data](https://huggingface.co/datasets/CO-Bench/FrontierCO)\]
+* **FrontierCO: A Comprehensive Evaluation of Contemporary ML-Based Solvers for Combinatorial Optimization** \[[pdf](https://arxiv.org/abs/2505.16952)\]\[[data](https://huggingface.co/datasets/CO-Bench/FrontierCO)\]
   * <ins>Shengyu Feng</ins>\*, Weiwei Sun\*, Shanda Li, Ameet Talwalker, and Yiming Yang
   * International Conference on Learning Representations (**ICLR**), 2026
 
