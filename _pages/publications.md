@@ -20,10 +20,6 @@ author_profile: true
 * **CO-Bench: Benchmarking Language Model Agents in Algorithm Search for Combinatorial Optimization** \[[pdf](https://arxiv.org/abs/2504.04310)\]\[[data](https://huggingface.co/datasets/CO-Bench/CO-Bench)\]
   * Weiwei Sun\*, <ins>Shengyu Feng</ins>\*, Shanda Li, and Yiming Yang
   * Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2026
-  
-* **CGSim: A Simulation Framework for Large Scale Distributed Computing Environment** \[[pdf](https://arxiv.org/abs/2510.00822)\]
-  * Sairam Sri Vatsavai, Raees Khan, Kuan-Chieh Hsu, Ozgur O. Kilic, Paul Nilsson, Tatiana Korchuganova, David K. Park, Sankha Dutta, Yihui Ren, Joseph Boudreau, Tasnuva Chowdhury, <ins>Shengyu Feng</ins>, Jaehyung Kim, Scott Klasky, Tadashi Maeno, Verena Ingrid Martinez, Norbert Podhorszki, Frederic Suter, Wei Yang, Yiming Yang, Shinjae Yoo, Alexei Klimentov, and Adolfy Hoisie. 
-  * Workshop on Performance Modeling, Benchmarking and Simulation of High Performance Computer Systems (PMBS), **SC25** <span style="color:red">(Best short paper award)</span>
 
 * **Alternative Mixed Integer Linear Programming Optimization for Joint Job Scheduling and Data Allocation in Grid Computing** \[[pdf](https://www.sciencedirect.com/science/article/pii/S0167739X25003693)\]
   * <ins>Shengyu Feng</ins>\*, Jaehyung Kim\*, Yiming Yang, Joseph Boudreau, Tasnuva Chowdhury, Adolfy Hoisie, Raees Khan, Ozgur O. Kilic, Scott Klasky, Tatiana Korchuganova, Paul Nilsson, Verena Ingrid Martinez Outschoorn, David K. Park, Norbert Podhorszki, Yihui Ren, Frederic Suter, Sairam Sri Vatsavai, Wei Yang, Shinjae Yoo, Tadashi Maeno, and Alexei Klimentov
@@ -36,18 +32,6 @@ author_profile: true
 * **Step-by-Step Reasoning for Math Problems via Twisted Sequential Monte Carlo** \[[pdf](https://openreview.net/forum?id=Ze4aPP0tIn)\]\[[code](https://github.com/Shengyu-Feng/TSMC4MATH)\]
   * <ins>Shengyu Feng</ins>, Xiang Kong, Shuang Ma, Aonan Zhang, Dong Yin, Chong Wang, Ruoming Pang, and Yiming Yang
   * International Conference on Learning Representations (**ICLR**), 2025
-  
-* **AI Surrogate Model for Distributed Computing Workloads**
-  * David K. Park, Yihui Ren, Ozgur O. Kilic, Tatiana Korchuganova, Sairam Sri Vatsavai, Joseph Boudreau, Tasnuva Chowdhury, <ins>Shengyu Feng</ins>, Raees Khan, Jaehyung Kim, Scott Klasky, Tadashi Maeno, Paul Nilsson, Verena Ingrid Martinez Outschoorn, Norbert Podhorszki, Frederic Suter, Wei Yang, Yiming Yang, Shinjae Yoo, Alexei Klimentov, and Adolfy Hoisie 
-  * Workshop on Artificial Intelligence and Machine Learning for Scientific Applications (AI4S), **SC24**
-
-* **Exploiting Long-Term Dependencies for Generating Dynamic Scene Graphs**  \[[pdf](https://arxiv.org/abs/2112.09828)\]\[[code](https://github.com/Shengyu-Feng/DSG-DETR)\]
-  * <ins>Shengyu Feng</ins>, Subarna Tripathi, Hesham Mostafa, Marcel Nassar, and Somdeb Majumdar
-  * IEEE/CVF Winter Conference on Applications of Computer Vision (**WACV**), 2023
-
-* **X-GOAL: Multiplex Graph Prototypical Contrastive Learning**  \[[pdf](https://arxiv.org/abs/2109.03560)\]
-  * Baoyu Jing, <ins>Shengyu Feng</ins>, Yuejia Xiang, Xi Chen, Yu Chen, and Hanghang Tong
-  * ACM International Conference on Information and Knowledge Management (**CIKM**), 2022
 
 * **Adversarial Graph Contrastive Learning with Information Regularization** \[[pdf](https://arxiv.org/abs/2202.06491)\]\[[code](https://github.com/Shengyu-Feng/ARIEL)\]
   * <ins>Shengyu Feng</ins>, Baoyu Jing, Yada Zhu, and Hanghang Tong
