@@ -9,10 +9,6 @@ author_profile: true
   You can also find my complete publication list on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-* **Rubric-Based Benchmarking and Reinforcement Learning for Advancing LLM Instruction Following** \[[pdf](https://arxiv.org/abs/2511.10507)\]
-    * Yun He\*, Wenzhe Li\*, Hejia Zhang, Songlin Li, Karishma Mandyam, Sopan Khosla, Yuanhao Xiong, Nanshu Wang, Selina Peng, Beibin Li, Shengjie Bi, Shishir G. Patil, Qi Qi, <ins>Shengyu Feng</ins>, Julian Katz-Samuels, Richard Yuanzhe Pang, Sujan Gonugondla, Hunter Lang, Yue Yu, Yundi Qian, Maryam Fazel-Zarandi, Licheng Yu, Amine Benhalloum, Hany Awadalla, and Manaal Faruqui.
-    * Preprint
-
 * **Bradley-Terry Policy Optimization for Generative Preference Modeling** \[[pdf](https://arxiv.org/abs/2510.15242)\]
   * <ins>Shengyu Feng</ins>, Yun He, Shuang Ma, Beibin Li, Yuanhao Xiong, Vincent Li, Karishma Mandyam, Julian Katz-Samuels, Shengjie Bi, Licheng Yu, Hejia Zhang, Karthik Abinav Sankararaman, Han Fang, Yiming Yang, and Manaal Faruqui
   * Preprint
@@ -40,22 +36,10 @@ author_profile: true
 * **Step-by-Step Reasoning for Math Problems via Twisted Sequential Monte Carlo** \[[pdf](https://openreview.net/forum?id=Ze4aPP0tIn)\]\[[code](https://github.com/Shengyu-Feng/TSMC4MATH)\]
   * <ins>Shengyu Feng</ins>, Xiang Kong, Shuang Ma, Aonan Zhang, Dong Yin, Chong Wang, Ruoming Pang, and Yiming Yang
   * International Conference on Learning Representations (**ICLR**), 2025
-
-* **SORREL: Suboptimal-Demonstration-Guided Reinforcement Learning for Learning to Branch** \[[pdf](https://ojs.aaai.org/index.php/AAAI/article/view/33219)\]\[[code](https://github.com/Shengyu-Feng/SORREL)\]
-  * <ins>Shengyu Feng</ins> and Yiming Yang
-  * Annual AAAI Conference on Artificial Intelligence (**AAAI**), 2025 <span style="color:red">(Oral)</span>
   
 * **AI Surrogate Model for Distributed Computing Workloads**
   * David K. Park, Yihui Ren, Ozgur O. Kilic, Tatiana Korchuganova, Sairam Sri Vatsavai, Joseph Boudreau, Tasnuva Chowdhury, <ins>Shengyu Feng</ins>, Raees Khan, Jaehyung Kim, Scott Klasky, Tadashi Maeno, Paul Nilsson, Verena Ingrid Martinez Outschoorn, Norbert Podhorszki, Frederic Suter, Wei Yang, Yiming Yang, Shinjae Yoo, Alexei Klimentov, and Adolfy Hoisie 
   * Workshop on Artificial Intelligence and Machine Learning for Scientific Applications (AI4S), **SC24**
-
-* **ARIEL: Adversarial Graph Contrastive Learning** \[[pdf](https://arxiv.org/pdf/2208.06956)\]\[[code](https://github.com/Shengyu-Feng/ARIEL)\]
-  * <ins>Shengyu Feng</ins>, Baoyu Jing, Yada Zhu, and Hanghang Tong
-  * ACM Transactions on Knowledge Discovery from Data (**TKDD**)
-
-* **Concept Discovery for Fast Adaptation** \[[pdf](https://arxiv.org/abs/2301.07850)\]
-  * <ins>Shengyu Feng</ins> and Hanghang Tong
-  * SIAM International Conference on Data Mining (**SDM**), 2023
 
 * **Exploiting Long-Term Dependencies for Generating Dynamic Scene Graphs**  \[[pdf](https://arxiv.org/abs/2112.09828)\]\[[code](https://github.com/Shengyu-Feng/DSG-DETR)\]
   * <ins>Shengyu Feng</ins>, Subarna Tripathi, Hesham Mostafa, Marcel Nassar, and Somdeb Majumdar
@@ -73,6 +57,3 @@ author_profile: true
     * Yijie Guo, <ins>Shengyu Feng</ins>, Nicolas Le Roux, Ed Chi, Honglak Lee, and Minmin Chen
     * International Conference on Learning Representations (**ICLR**), 2021 
 
-* **Memory Based Trajectory-conditioned Policies for Learning from Sparse Rewards** \[[pdf](https://openreview.net/pdf?id=Byg5KyHYwr)\]
-  *  Yijie Guo, Jongwook Choi, Marcin Moczulski, <ins>Shengyu Feng</ins>, Samy Bengio, Mohammad Norouzi, and Honglak Lee
-  *  Neural Information Processing Systems (**NeurIPS**), 2020
