@@ -1,0 +1,91 @@
+main:
+
+  - title: Unsupervised Diffusion for Combinatorial Optimization via Adjoint Matching
+    authors: <strong>Shengyu Feng</strong>, Tarun Suresh, and Yiming Yang
+    conference_short: ICML
+    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2026.
+
+  - title: "Unsupervised Neural Langevin Sampler for Mixed Integer Linear Programming"
+    authors: Yixin Huang, <strong>Shengyu Feng</strong>, and Yiming Yang
+    conference_short: ICML
+    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2026.
+
+  - title: "AdvancedIF: Rubric-Based Benchmarking and Reinforcement Learning for Advancing LLM Instruction Following"
+    authors: Yun He, Wenzhe Li, Hejia Zhang, Songlin Li, Karishma Mandyam, Sopan Khosla, Yuanhao Xiong, Nanshu Wang, Xiaoliang Peng, Beibin Li, Shengjie Bi, Shishir G Patil, Qi Qi, <strong>Shengyu Feng</strong>, Julian Katz-Samuels, Richard Yuanzhe Pang, Sujan Kumar Gonugondla, Hunter Lang, Yue Yu, Yundi Qian, Maryam Fazel-Zarandi, Licheng Yu, Amine Benhalloum, Hany Hassan Awadalla, Manaal Faruqui
+    conference_short: ACL
+    conference: Annual Meeting of the Association for Computational Linguistics <strong>(ACL)</strong>, 2026.
+    html: https://arxiv.org/abs/2511.10507v2
+
+  - title: Bradley-Terry Policy Optimization for Generative Preference Modeling
+    authors: <strong>Shengyu Feng</strong>, Yun He, Shuang Ma, Beibin Li, Yuanhao Xiong, Vincent Li, Karishma Mandyam, Julian Katz-Samuels, Shengjie Bi, Licheng Yu, Hejia Zhang, Karthik Abinav Sankararaman, Han Fang, Yiming Yang, and Manaal Faruqui
+    conference_short: arXiv
+    conference: arXiv preprint
+    html: https://arxiv.org/abs/2510.15242
+
+  - title: "FrontierCO: A Comprehensive Evaluation of Contemporary ML-Based Solvers for Combinatorial Optimization"
+    authors: <strong>Shengyu Feng</strong>*, Weiwei Sun*, Shanda Li, Ameet Talwalker, and Yiming Yang
+    conference_short: ICLR
+    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2026.
+    html: https://openreview.net/forum?id=BVprkacwFY
+    code: https://github.com/sunnweiwei/FrontierCO
+
+  - title: "CO-Bench: Benchmarking Language Model Agents in Algorithm Search for Combinatorial Optimization"
+    authors: Weiwei Sun*, <strong>Shengyu Feng</strong>*, Shanda Li, and Yiming Yang
+    conference_short: AAAI
+    conference: Annual AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2026.
+    html: https://arxiv.org/abs/2504.04310
+    code: https://github.com/sunnweiwei/CO-Bench
+
+  - title: Alternative Mixed Integer Linear Programming Optimization for Joint Job Scheduling and Data Allocation in Grid Computing
+    authors: <strong>Shengyu Feng</strong>*, Jaehyung Kim*, Yiming Yang, Joseph Boudreau, Tasnuva Chowdhury, Adolfy Hoisie, Raees Khan, Ozgur O. Kilic, Scott Klasky, Tatiana Korchuganova, Paul Nilsson, Verena Ingrid Martinez Outschoorn, David K. Park, Norbert Podhorszki, Yihui Ren, Frederic Suter, Sairam Sri Vatsavai, Wei Yang, Shinjae Yoo, Tadashi Maeno, and Alexei Klimentov
+    conference_short: FGCS
+    conference: Future Generation and Computer Systems <strong>(FGCS)</strong>.
+    html: https://www.sciencedirect.com/science/article/pii/S0167739X25003693
+
+  - title: Regularized Langevin Dynamics for Combinatorial Optimization
+    authors: <strong>Shengyu Feng</strong> and Yiming Yang
+    conference_short: ICML
+    conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2025.
+    html: https://openreview.net/forum?id=bbJ0QCujU4
+    code: https://github.com/Shengyu-Feng/RLD4CO
+
+  - title: Step-by-Step Reasoning for Math Problems via Twisted Sequential Monte Carlo
+    authors: <strong>Shengyu Feng</strong>, Xiang Kong, Shuang Ma, Aonan Zhang, Dong Yin, Chong Wang, Ruoming Pang, and Yiming Yang
+    conference_short: ICLR
+    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2025.
+    html: https://openreview.net/forum?id=Ze4aPP0tIn
+    code: https://github.com/Shengyu-Feng/TSMC4MATH
+
+  - title: "SORREL: Suboptimal-Demonstration-Guided Reinforcement Learning for Learning to Branch"
+    authors: <strong>Shengyu Feng</strong>, Yiming Yang
+    conference_short: AAAI
+    conference: Annual AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2026.
+    html: https://arxiv.org/abs/2412.15534
+    code: https://github.com/Shengyu-Feng/SORREL
+    note: Oral (top 6%)
+
+  - title: "Exploiting Long-Term Dependencies for Generating Dynamic Scene Graphs"
+    authors: <strong>Shengyu Feng</strong>, Subarna Tripathi, Hesham Mostafa, Marcel Nassar, and Somdeb Majumdar.
+    conference_short: WACV
+    conference: IEEE/CVF Winter Conference on Applications of Computer Vision <strong>(WACV)</strong>, 2023.
+    html: https://ieeexplore.ieee.org/document/10030513
+    code: https://github.com/Shengyu-Feng/DSG-DETR
+
+  - title: Adversarial Graph Contrastive Learning with Information Regularization
+    authors: <strong>Shengyu Feng</strong>, Baoyu Jing, Yada Zhu, and Hanghang Tong
+    conference_short: WWW
+    conference: ACM Web Conference <strong>(WWW)</strong>, 2022.
+    html: https://arxiv.org/abs/2202.06491
+    code: https://github.com/Shengyu-Feng/ARIEL
+
+  - title: Batch Reinforcement Learning through Continuation Method
+    authors: Yijie Guo, <strong>Shengyu Feng</strong>, Nicolas Le Roux, Ed Chi, Honglak Lee, and Minmin Chen
+    conference_short: ICLR
+    conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2021.
+    html: https://openreview.net/forum?id=po-DLlBuAuz
+
+  - title: Memory Based Trajectory-conditioned Policies for Learning from Sparse Rewards
+    authors: Yijie Guo, Jongwook Choi, Marcin Moczulski, <strong>Shengyu Feng</strong>,  Samy Bengio, Mohammad Norouzi, and Honglak Lee
+    conference_short: NeurIPS
+    conference: Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2020.
+    html: https://proceedings.neurips.cc//paper_files/paper/2020/hash/2df45244f09369e16ea3f9117ca45157-Abstract.html
