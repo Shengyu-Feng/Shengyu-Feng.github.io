@@ -88,7 +88,7 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 
 @media (prefers-color-scheme: dark) { .selected-pub-row { border-bottom-color: #444; } }
 
-details.pub-details { margin-top: 2rem; }
+details.pub-details { margin-top: 0.5rem; }
 
 details.pub-details > summary { cursor: pointer; font-size: 1.3rem; font-weight: 600; list-style: none; display: flex; align-items: center; gap: 0.5rem; padding: 4px 0; margin-bottom: 0; }
 
