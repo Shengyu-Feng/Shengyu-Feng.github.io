@@ -33,5 +33,6 @@ I study learning and inference algorithms for **sequential search and decision m
 
 ## News
 
-- **[May 2026]** Finish my thesis proposal titled **Generative Dynamics for Discrete Optimization**.
-- **[April 2026]** Two papers in unsupervised diffusion models for CO are accepted to ICML 2026.
+- **[May 2026]** Pass my thesis proposal titled **Generative Dynamics for Discrete Optimization**!
+- **[April 2026]** Two papers in unsupervised diffusion models for combinatorial optimization are accepted to ICML 2026!
+- **[April 2026]** One papers in rubric-based RL is accepted to ACL2026!
