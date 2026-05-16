@@ -4,6 +4,7 @@ main:
     authors: <strong>Shengyu Feng</strong>, Tarun Suresh, and Yiming Yang
     conference_short: ICML
     conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2026.
+    summary: First <strong>adjoint framework</strong> in discrete space for <strong>unsupervised diffusion model</strong> training.
     selected: true
     image: /assets/img/cam.png
 
@@ -24,12 +25,14 @@ main:
     conference: arXiv preprint
     html: https://arxiv.org/abs/2510.15242
 
-  - title: "FrontierCO: A Comprehensive Evaluation of Contemporary ML-Based Solvers for Combinatorial Optimization"
+  - title: "FrontierCO: Real-World and Large-Scale Evaluation of Machine Learning Solvers for Combinatorial Optimization"
     authors: <strong>Shengyu Feng</strong>*, Weiwei Sun*, Shanda Li, Ameet Talwalker, and Yiming Yang
     conference_short: ICLR
     conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2026.
     html: https://openreview.net/forum?id=BVprkacwFY
     code: https://github.com/sunnweiwei/FrontierCO
+    summary: Unified <strong>evaluation</strong> of both <strong>neural solvers</strong> and <strong>LLM agentic solvers</strong> on real-world & large-scale CO problems.
+
     selected: true
     image: /assets/img/frontierco.png
 
@@ -52,6 +55,7 @@ main:
     conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2025.
     html: https://openreview.net/forum?id=bbJ0QCujU4
     code: https://github.com/Shengyu-Feng/RLD4CO
+    summary: Novel dynamics to address the <strong>local optima</strong> in combinatorial space, <strong>97% faster</strong> than SOTA
     selected: true
     image: /assets/img/rld.png
 
@@ -61,6 +65,7 @@ main:
     conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2025.
     html: https://openreview.net/forum?id=Ze4aPP0tIn
     code: https://github.com/Shengyu-Feng/TSMC4MATH
+    summary:  <strong>LLM inference-scaling</strong> via <strong>twisted sequential Monte Carlo</strong>; unified probabilistic lens for verification methods.
     selected: true
     image: /assets/img/tsmc.png
 
