@@ -4,6 +4,8 @@ main:
     authors: <strong>Shengyu Feng</strong>, Tarun Suresh, and Yiming Yang
     conference_short: ICML
     conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2026.
+    selected: true
+    image: /assets/img/cam.png
 
   - title: "Unsupervised Neural Langevin Sampler for Mixed Integer Linear Programming"
     authors: Yixin Huang, <strong>Shengyu Feng</strong>, and Yiming Yang
@@ -28,6 +30,8 @@ main:
     conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2026.
     html: https://openreview.net/forum?id=BVprkacwFY
     code: https://github.com/sunnweiwei/FrontierCO
+    selected: true
+    image: /assets/img/frontierco.png
 
   - title: "CO-Bench: Benchmarking Language Model Agents in Algorithm Search for Combinatorial Optimization"
     authors: Weiwei Sun*, <strong>Shengyu Feng</strong>*, Shanda Li, and Yiming Yang
@@ -48,6 +52,8 @@ main:
     conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2025.
     html: https://openreview.net/forum?id=bbJ0QCujU4
     code: https://github.com/Shengyu-Feng/RLD4CO
+    selected: true
+    image: /assets/img/rld.png
 
   - title: Step-by-Step Reasoning for Math Problems via Twisted Sequential Monte Carlo
     authors: <strong>Shengyu Feng</strong>, Xiang Kong, Shuang Ma, Aonan Zhang, Dong Yin, Chong Wang, Ruoming Pang, and Yiming Yang
@@ -55,6 +61,8 @@ main:
     conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2025.
     html: https://openreview.net/forum?id=Ze4aPP0tIn
     code: https://github.com/Shengyu-Feng/TSMC4MATH
+    selected: true
+    image: /assets/img/tsmc.png
 
   - title: "SORREL: Suboptimal-Demonstration-Guided Reinforcement Learning for Learning to Branch"
     authors: <strong>Shengyu Feng</strong>, Yiming Yang
@@ -62,7 +70,13 @@ main:
     conference: Annual AAAI Conference on Artificial Intelligence <strong>(AAAI)</strong>, 2026.
     html: https://arxiv.org/abs/2412.15534
     code: https://github.com/Shengyu-Feng/SORREL
-    note: Oral (top 6%)
+    notes: Oral Presentation (top 6%)
+
+  - title: Concept Discovery for Fast Adaptation
+    authors: <strong>Shengyu Feng</strong> and Hanghang Tong
+    conference_short: SDM
+    conference: SIAM International Conference on Data Mining <strong>(SDM)</strong>, 2023.
+    html: https://epubs.siam.org/doi/10.1137/1.9781611977653.ch65
 
   - title: "Exploiting Long-Term Dependencies for Generating Dynamic Scene Graphs"
     authors: <strong>Shengyu Feng</strong>, Subarna Tripathi, Hesham Mostafa, Marcel Nassar, and Somdeb Majumdar.
@@ -70,6 +84,19 @@ main:
     conference: IEEE/CVF Winter Conference on Applications of Computer Vision <strong>(WACV)</strong>, 2023.
     html: https://ieeexplore.ieee.org/document/10030513
     code: https://github.com/Shengyu-Feng/DSG-DETR
+
+  - title: "ARIEL: Adversarial Graph Contrastive Learning"
+    authors: <strong>Shengyu Feng</strong>, Baoyu Jing, Yada Zhu, and Hanghang Tong
+    conference_short: TKDD
+    conference: ACM Transactions on Knowledge Discovery from Data <strong>(TKDD)</strong>.
+    html: https://dl.acm.org/doi/10.1145/3638054
+    code: https://github.com/Shengyu-Feng/ARIEL
+
+  - title: "X-GOAL: Multiplex Graph Prototypical Contrastive Learning"
+    authors: Baoyu Jing, <strong>Shengyu Feng</strong>,  Yuejia Xiang, Xi Chen, Yu Chen, and Hanghang Tong
+    conference_short: CIKM
+    conference: ACM International Conference on Information and Knowledge Management <strong>(CIKM)</strong>, 2022.
+    html: https://dl.acm.org/doi/10.1145/3511808.3557490
 
   - title: Adversarial Graph Contrastive Learning with Information Regularization
     authors: <strong>Shengyu Feng</strong>, Baoyu Jing, Yada Zhu, and Hanghang Tong
@@ -85,7 +112,7 @@ main:
     html: https://openreview.net/forum?id=po-DLlBuAuz
 
   - title: Memory Based Trajectory-conditioned Policies for Learning from Sparse Rewards
-    authors: Yijie Guo, Jongwook Choi, Marcin Moczulski, <strong>Shengyu Feng</strong>,  Samy Bengio, Mohammad Norouzi, and Honglak Lee
+    authors: Yijie Guo, Jongwook Choi, Marcin Moczulski, <strong>Shengyu Feng</strong>, Samy Bengio, Mohammad Norouzi, and Honglak Lee
     conference_short: NeurIPS
     conference: Neural Information Processing Systems <strong>(NeurIPS)</strong>, 2020.
     html: https://proceedings.neurips.cc//paper_files/paper/2020/hash/2df45244f09369e16ea3f9117ca45157-Abstract.html

@@ -1,0 +1,17 @@
+{% if site.data.talks %}
+
+<h2 id="talks" style="margin: 2px 0px -15px;">Invited Talks</h2>
+
+<div class="talks">
+  {% for talk in site.data.talks.main %}
+  <div class="talk-row">
+    <div class="talk-content">
+      <div class="talk-title">{{ talk.title }}</div>
+      <div class="talk-venue">{{ talk.venue }}</div>
+    </div>
+    <div class="talk-date">{{ talk.date }}</div>
+  </div>
+  {% endfor %}
+</div>
+
+{% endif %}
