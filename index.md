@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a final-year Ph.D. student in [CMU LTI](lti.cs.cmu.edu), advised by Prof. [Yiming Yang](https://www.cs.cmu.edu/~./yiming/).
+I am a final-year Ph.D. student in [CMU LTI](https://www.lti.cs.cmu.edu/), advised by Prof. [Yiming Yang](https://www.cs.cmu.edu/~./yiming/).
 
 Before that, I received my M.S. in Computer Science from UIUC (2022), B.S.E in Computer Science from UMich (2020), and B.S in Electrical and Computer Engineering from Shanghai Jiao Tong University (2020).
 
