@@ -6,7 +6,7 @@ main:
     conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2026.
     summary: First <strong>adjoint framework</strong> in discrete space for <strong>unsupervised diffusion model</strong> training.
     selected: true
-    image: /assets/img/cam_logo.png
+    image: /assets/img/cam.png
     html: https://arxiv.org/abs/2510.15242
 
   - title: "Unsupervised Neural Langevin Sampler for Mixed Integer Linear Programming"
