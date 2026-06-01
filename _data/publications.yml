@@ -1,6 +1,6 @@
 main:
 
-  - title: Unsupervised Diffusion for Combinatorial Optimization via Adjoint Matching
+  - title: Unsupervised Diffusion Solver for Combinatorial Optimization via Combinatorial Adjoint Matching
     authors: <strong>Shengyu Feng</strong>, Tarun Suresh, and Yiming Yang
     conference_short: ICML
     conference: International Conference on Machine Learning <strong>(ICML)</strong>, 2026.
