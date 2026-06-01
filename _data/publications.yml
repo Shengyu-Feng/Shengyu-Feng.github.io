@@ -8,6 +8,7 @@ main:
     selected: true
     image: /assets/img/cam.png
     html: https://arxiv.org/abs/2510.15242
+    code: https://github.com/Shengyu-Feng/CAM
 
   - title: "Unsupervised Neural Langevin Sampler for Mixed Integer Linear Programming"
     authors: Yixin Huang, <strong>Shengyu Feng</strong>, and Yiming Yang
