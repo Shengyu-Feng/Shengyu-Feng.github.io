@@ -7,7 +7,7 @@ main:
     summary: First <strong>adjoint framework</strong> in discrete space for <strong>unsupervised diffusion model</strong> training.
     selected: true
     image: /assets/img/cam.png
-    html: https://arxiv.org/abs/2510.15242
+    html: https://arxiv.org/abs/2605.30920
     code: https://github.com/Shengyu-Feng/CAM
 
   - title: "Unsupervised Neural Langevin Sampler for Mixed Integer Linear Programming"
