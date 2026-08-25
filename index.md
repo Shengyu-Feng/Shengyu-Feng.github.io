@@ -8,14 +8,20 @@ I am a final-year Ph.D. student in [CMU LTI](https://www.lti.cs.cmu.edu/), advis
 
 Before that, I received my M.S. in Computer Science from UIUC (2022), B.S.E in Computer Science from UMich (2020), and B.S in Electrical and Computer Engineering from Shanghai Jiao Tong University (2020).
 
-I study learning and inference algorithms for **sequential search and decision making in discrete domains**, with applications to **language modeling, combinatorial optimization, and scientific discovery**. My research broadly spans generative models, reinforcement learning, and probabilistic inference.
+My research centers on one question: **How can models learn effectively when high-quality data or supervision is limited?**
+
+I approach this question from three complementary directions:
+
+- **Learning directly from evaluable objectives:** TSMC, BTPO, RLD, and CAM
+- **Learning from suboptimal solutions:** Continuation and SORREL
+- **Data-constrained scaling and optimization:** Optimization-Aware Scaling
 
 ## Research Themes
 
 <div class="research-themes">
   <div class="theme-pillar">
-    <h4>Discrete Optimization</h4>
-    <p>Learning-based methods for solving NP-hard problems, including combinatorial optimization, stochastic search, and inference-time algorithms.</p>
+    <h4>Non-convex Optimization</h4>
+    <p>Including the optimization algorithms for LLMs and Learning-based methods for solving NP-hard problems.</p>
   </div>
   <div class="theme-pillar">
     <h4>Generative Models</h4>
