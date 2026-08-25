@@ -1,0 +1,7 @@
+main:
+
+  - title: "Example Blog Post Title"
+    date: "Aug 2026"
+    description: "A brief description of what this blog post is about."
+    url: "#"
+

@@ -1,0 +1,17 @@
+{% if site.posts.size > 0 %}
+
+<h2 id="blogs" style="margin: 2rem 0px -15px;">Blog Posts</h2>
+
+<div class="blogs">
+  {% for post in site.posts %}
+  <div class="blog-row">
+    <div class="blog-content">
+      <div class="blog-title"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></div>
+      {% if post.description %}<div class="blog-description">{{ post.description }}</div>{% endif %}
+    </div>
+    <div class="blog-date">{{ post.date | date: "%b %Y" }}</div>
+  </div>
+  {% endfor %}
+</div>
+
+{% endif %}
