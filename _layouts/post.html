@@ -27,7 +27,8 @@
     {% endif %}
 
     <style>
-      body { margin: 0; padding: 0; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+      html, body { margin: 0; padding: 0; overflow-x: hidden; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif; }
+      img { max-width: 100%; height: auto; }
 
       .post-page { max-width: 780px; margin: 0 auto; padding: 2.5rem 2rem 5rem; }
 
@@ -76,6 +77,7 @@
 
       /* Math */
       mjx-container:not([display="true"]) { display: inline !important; }
+      mjx-container[display="true"] { overflow-x: auto; max-width: 100%; }
 
       /* Citation */
       .post-citation { margin-top: 3rem; padding-top: 1.5rem; border-top: 1px solid #e0e0e0; }
