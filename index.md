@@ -21,7 +21,7 @@ I approach this question from three complementary directions:
 <div class="research-themes">
   <div class="theme-pillar">
     <h4>Non-convex Optimization</h4>
-    <p>Including the optimization algorithms for LLMs and Learning-based methods for solving NP-hard problems.</p>
+    <p>Including the optimization algorithms for LLMs and learning-based methods for solving NP-hard problems.</p>
   </div>
   <div class="theme-pillar">
     <h4>Generative Models</h4>
