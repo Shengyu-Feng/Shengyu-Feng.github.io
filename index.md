@@ -13,7 +13,7 @@ My research centers on one question: **How can models learn effectively when hig
 I approach this question from three complementary directions:
 
 - **Learning directly from evaluable objectives:** TSMC, BTPO, RLD, and CAM
-- **Learning from suboptimal solutions:** Continuation and SORREL
+- **Learning from suboptimal solutions:** Continuation method and SORREL
 - **Data-constrained scaling and optimization:** Optimization-Aware Scaling
 
 ## Research Themes
