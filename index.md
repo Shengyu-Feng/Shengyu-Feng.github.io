@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a final-year Ph.D. student in [CMU LTI](https://www.lti.cs.cmu.edu/), advised by Prof. [Yiming Yang](https://www.cs.cmu.edu/~./yiming/). <span style="color:red;">I am on the job market in 2027.</span>
+I am a final-year Ph.D. student in [CMU LTI](https://www.lti.cs.cmu.edu/), advised by Prof. [Yiming Yang](https://www.cs.cmu.edu/~./yiming/).
 
 Before that, I received my M.S. in Computer Science from UIUC (2022), B.S.E in Computer Science from UMich (2020), and B.S in Electrical and Computer Engineering from Shanghai Jiao Tong University (2020).
 
@@ -15,6 +15,8 @@ I approach this question from three complementary directions:
 - **Learning directly from evaluable objectives:** TSMC, BTPO, RLD, and CAM
 - **Learning from suboptimal solutions:** Continuation method and SORREL
 - **Data-constrained scaling and optimization:** Optimization-Aware Scaling
+
+<p style="color:red; font-weight:bold; font-size:1.15em;">📢 I am on the academic job market in 2027! Please check out my <a href="{{ site.cv_link | relative_url }}" style="color:red;">CV</a>.</p>
 
 ## Research Themes
 
