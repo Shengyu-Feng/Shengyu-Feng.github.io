@@ -16,7 +16,7 @@ I approach this question from three complementary directions:
 - **Learning from suboptimal solutions:** Continuation method and SORREL
 - **Data-constrained scaling and optimization:** Optimization-Aware Scaling
 
-<p style="color:red; font-weight:bold; font-size:1.15em;">📢 I am on the academic job market in 2027! Please check out my <a href="{{ site.cv_link | relative_url }}" style="color:red;">CV</a>.</p>
+<p style="color:red; font-weight:bold; font-size:1.15em;">📢 I am on the industry job market in 2027! Please check out my <a href="{{ site.cv_link | relative_url }}" style="color:red;">CV</a>.</p>
 
 ## Research Themes
 
