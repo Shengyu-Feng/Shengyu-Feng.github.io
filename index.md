@@ -40,7 +40,7 @@ I approach this question from three complementary directions:
 </div>
 
 ## News
-- **[Aug 2026]** I received 2026-2027 Sansom Graduate Fellowship!
+- **[August 2026]** I received 2026-2027 Sansom Graduate Fellowship!
 - **[May 2026]** Pass my thesis proposal titled **Generative Dynamics for Discrete Optimization**!
 - **[April 2026]** Two papers in unsupervised diffusion models for combinatorial optimization are accepted to ICML 2026!
 - **[April 2026]** One papers in rubric-based RL is accepted to ACL2026!
