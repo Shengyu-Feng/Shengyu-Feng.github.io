@@ -47,6 +47,7 @@
 
       /* Body */
       .post-body { font-size: 1.08rem; line-height: 1.75; color: #222; }
+      .post-body h1 { font-size: 1.85rem; font-weight: 700; margin-top: 4.5rem; margin-bottom: 1rem; color: #111; }
       .post-body h2 { font-size: 1.55rem; font-weight: 700; margin-top: 3rem; margin-bottom: 0.75rem; color: #111; }
       .post-body h3 { font-size: 1.25rem; font-weight: 600; margin-top: 2.2rem; margin-bottom: 0.5rem; color: #111; }
       .post-body h4 { font-size: 1.08rem; font-weight: 600; margin-top: 1.8rem; margin-bottom: 0.4rem; color: #333; }
@@ -67,7 +68,8 @@
 
       /* Figures */
       .post-body figure { margin: 2rem 0; }
-      .post-body figcaption { text-align: center; font-size: 0.88rem; color: #888; margin-top: 0.5rem; font-style: italic; }
+      .post-body figure img { display: block; margin: 0 auto; }
+      .post-body figcaption { text-align: center; font-size: 0.88rem; color: #888; margin-top: 0.2rem; font-style: italic; }
 
       /* Lists */
       .post-body ul, .post-body ol { padding-left: 1.8rem; margin: 1rem 0; }
@@ -79,6 +81,25 @@
       /* Math */
       mjx-container:not([display="true"]) { display: inline !important; }
       mjx-container[display="true"] { overflow-x: auto; max-width: 100%; }
+
+      /* Collapsible details */
+      .post-body details { border: 1px solid #ddd; border-radius: 8px; padding: 0.9rem 1.2rem; margin: 1.5rem 0; background: #fafafa; }
+      .post-body details[open] { padding-bottom: 1.2rem; }
+      .post-body summary { cursor: pointer; font-weight: 600; color: #333; list-style: revert; }
+      .post-body summary:hover { color: var(--global-theme-color); }
+      .post-body details > summary + * { margin-top: 1rem; }
+
+      /* Table of contents */
+      .post-toc { margin: 0 0 2.5rem; padding: 1rem 1.3rem; border: 1px solid #e0e0e0; border-radius: 8px; background: #fafafa; }
+      .post-toc-title { font-size: 0.8rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.06em; color: #888; margin-bottom: 0.6rem; }
+      .post-toc ul { list-style: none; margin: 0; padding: 0; }
+      .post-toc > ul > li { margin: 0.35rem 0; font-weight: 600; }
+      .post-toc > ul > li > ul { list-style: none; margin: 0.3rem 0 0.3rem 1.1rem; padding: 0; font-weight: 400; }
+      .post-toc > ul > li > ul > li { margin: 0.25rem 0; }
+      .post-toc a { color: #333; text-decoration: none; font-size: 0.95rem; }
+      .post-toc a:hover { color: var(--global-theme-color); text-decoration: underline; }
+      .post-body h1, .post-body h2 { scroll-margin-top: 1.5rem; }
+      @media (prefers-reduced-motion: no-preference) { html { scroll-behavior: smooth; } }
 
       /* Citation */
       .post-citation { margin-top: 3rem; padding-top: 1.5rem; border-top: 1px solid #e0e0e0; }
@@ -96,7 +117,7 @@
         .post-subtitle { color: #aaa; }
         .post-body { color: #ddd; }
         .post-body strong, .post-body b { color: #fff; }
-        .post-body h2, .post-body h3, .post-body h4 { color: #eee; }
+        .post-body h1, .post-body h2, .post-body h3, .post-body h4 { color: #eee; }
         .post-body a { color: #6ab0f5; }
         .post-body blockquote { border-left-color: #555; color: #aaa; }
         .post-body blockquote strong { color: #ccc; }
@@ -104,6 +125,11 @@
         .post-body hr { border-top-color: #333; }
         .post-citation { border-top-color: #333; }
         .post-citation pre { background: #1e1e1e; color: #ccc; }
+        .post-body details { border-color: #333; background: #222; }
+        .post-body summary { color: #ddd; }
+        .post-toc { border-color: #333; background: #222; }
+        .post-toc-title { color: #999; }
+        .post-toc a { color: #ddd; }
       }
     </style>
   </head>
@@ -118,6 +144,7 @@
         {% if page.subtitle %}<div class="post-subtitle">{{ page.subtitle }}</div>{% endif %}
         <div class="post-meta">{{ page.date | date: "%B %d, %Y" }}</div>
       </div>
+      <nav class="post-toc" id="post-toc" hidden></nav>
       <div class="post-body">
         {{ content }}
       </div>
@@ -132,6 +159,56 @@
       </div>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    <script>
+      // Auto-build a table of contents from the post's own h1/h2 headings,
+      // so every post gets navigation without needing any manual list.
+      (function () {
+        var container = document.getElementById('post-toc');
+        if (!container) return;
+        var headings = document.querySelectorAll('.post-body h1, .post-body h2');
+        if (headings.length < 2) return;
+
+        function slugify(text) {
+          return text.toLowerCase().trim()
+            .replace(/[^a-z0-9\s-]/g, '')
+            .replace(/\s+/g, '-') || 'section';
+        }
+
+        var list = document.createElement('ul');
+        var currentSubList = null;
+
+        headings.forEach(function (h) {
+          if (!h.id) {
+            var base = slugify(h.textContent);
+            var id = base, i = 1;
+            while (document.getElementById(id)) { id = base + '-' + (i++); }
+            h.id = id;
+          }
+          var li = document.createElement('li');
+          var a = document.createElement('a');
+          a.href = '#' + h.id;
+          a.textContent = h.textContent;
+          li.appendChild(a);
+
+          if (h.tagName === 'H1') {
+            list.appendChild(li);
+            currentSubList = document.createElement('ul');
+            li.appendChild(currentSubList);
+          } else if (currentSubList) {
+            currentSubList.appendChild(li);
+          } else {
+            list.appendChild(li);
+          }
+        });
+
+        var title = document.createElement('div');
+        title.className = 'post-toc-title';
+        title.textContent = 'Contents';
+        container.appendChild(title);
+        container.appendChild(list);
+        container.hidden = false;
+      })();
+    </script>
     <script>
       MathJax = {
         tex: {

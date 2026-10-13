@@ -49,6 +49,11 @@ permalink: /blog/:year/:month/:day/:title/
 
 kramdown:
   math_engine: null
+  # Keep straight quotes/apostrophes as-is instead of kramdown's "smart quotes"
+  # curling them — otherwise a literal ' inside inline math (e.g. $p(x')$) gets
+  # silently turned into a curly ’, which MathJax then renders as a stray
+  # quotation-mark glyph instead of a prime.
+  smart_quotes: ["apos", "apos", "quot", "quot"]
 
 # The following files will be removed from the generated website.
 exclude:

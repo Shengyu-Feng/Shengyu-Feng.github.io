@@ -1,4 +1,10 @@
 main:
+  - title: Agentic Job Scheduling for Scientific Distributed Computing via Active Knowledge Extraction
+    authors: <strong>Shengyu Feng</strong>, Yiming Yang, Joseph Boudreau, Tasnuva Chowdhury,Fatih Furkan Akman, Adolfy Hoisie, Raees Khan, Ozgur O. Kilic, Scott Klasky, Tatiana Korchuganova, Paul Nilsson, Verena Ingrid Martinez Outschoorn,David K. Park, Norbert Podhorszki, Yihui Ren, Frederic Suter, Sairam Sri Vatsavai, John Rembrandt Steele, Wei Yang, Shinjae Yoo, Kuan-Chieh Hsu, Sankha Dutta, Kenny Lo, Tadashi Maeno, and Alexei Klimentov
+    conference_short: AI4S@NeurIPS
+    conference: AI4S workshop, Neural Information Processing Systems <strong>(NeurIPS)</strong>, <strong>(ICML)</strong>, 2026.
+    selected: false
+    notes: Oral
 
   - title: Unsupervised Diffusion Solver for Combinatorial Optimization via Combinatorial Adjoint Matching
     authors: <strong>Shengyu Feng</strong>, Tarun Suresh, and Yiming Yang
